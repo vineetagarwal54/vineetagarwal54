@@ -50,7 +50,7 @@ If you’re somewhere in the world of full-stack, cloud, mobile, or applied AI a
 ---
 
 ## How to reach me:
-LinkedIn: [Vineet Agarwal](https://www.linkedin.com/in/vineet-agarwal-540abc/)
-Email: vineetagarwal540@gmail.com
-Portfolio/Website: [My Protfolio](https://vineet-agarwal54.vercel.app/)
+LinkedIn: [Vineet Agarwal](https://www.linkedin.com/in/vineet-agarwal-540abc/).
+Email: vineetagarwal540@gmail.com.
+Portfolio/Website: [My Protfolio](https://vineet-agarwal54.vercel.app/).
 
