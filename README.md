@@ -1,56 +1,91 @@
-# Hey, I'm Vineet 👋
+<h1 align="center">Hi, I'm Vineet Agarwal 👋</h1>
+<h3 align="center">Software Engineer | Full Stack | Mobile | AI Systems</h3>
 
-I started out as a full-stack engineer who liked owning the whole flow — backend APIs, frontend interfaces, databases, deployments, and everything in between.  
-Over time this pulled me deeper into cloud systems, distributed services, and the kind of architecture work that keeps real products running.
+<p align="center">
+  I build scalable products across backend, mobile, cloud, and applied AI.
+</p>
 
-That foundation still drives how I work:  
-design the system first, understand the data, make it scalable, then build the parts on top of it.
+<p align="center">
+  <a href="https://vineet-agarwal54.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vineetagarwal54/">LinkedIn</a> •
+  <a href="mailto:vineetagarwal540@gmail.com">Email</a>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vineetagarwal54&show_icons=true" alt="GitHub stats" />
+</p>
 
-## What I’m good at
-
-**Full-stack development**  
-APIs, authentication, database design, frontend logic, state management, caching, background jobs — I enjoy writing the pieces that connect everything together.
-
-**Cloud & infrastructure**  
-Containerized services, CI/CD, AWS basics, logging, monitoring, and the mental model of “how does this behave in production?”  
-I love the clarity that good infrastructure brings.
-
-**Building for real users**  
-Fast responses, predictable behavior, clean flows, and systems that can grow without turning chaotic.
-
----
-
-## What I’m exploring now
-
-**React Native + modern mobile patterns**  
-I’m learning how to build mobile apps that feel smooth, responsive, and actually useful day-to-day.  
-Think good UI, clean navigation, offline behavior, and talking to smart backends.
-
-**Multi-agent AI systems**  
-Not just calling an LLM — coordinating multiple reasoning units that can research, review, summarize, plan, or make decisions together.  
-I’m experimenting with agent orchestration, contextual memory, retrieval, and how these agents can power mobile experiences.
-
-**Where mobile meets AI**  
-This is the direction I’m most excited about.  
-Apps that respond to the world, remember context, and behave more like partners than interfaces.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetagarwal54&layout=compact" alt="Top languages" />
+</p>
 
 ---
 
-## How I work
+## About me
 
-I like systems that make sense.  
-I like APIs that don’t surprise you.  
-I like UIs that guide instead of confuse.  
-And I try to build things that can survive beyond the first version.
+I’m a software engineer with experience building production-grade applications across full-stack systems, cross-platform mobile apps, backend APIs, cloud workflows, and AI-powered products.
 
-If you’re somewhere in the world of full-stack, cloud, mobile, or applied AI and want to build, explore, or break things together, I’m around.
+I enjoy solving problems end to end — from architecture and data flow to performance, deployment, and user experience.
+
+My strongest interest is building at the intersection of:
+
+- **Full-stack engineering**
+- **Mobile development**
+- **Cloud-backed systems**
+- **Applied AI**
 
 ---
 
-## How to reach me:
-LinkedIn: [Vineet Agarwal](https://www.linkedin.com/in/vineet-agarwal-540abc/)  
-Email: vineetagarwal540@gmail.com  
-Portfolio/Website: [My Protfolio](https://vineet-agarwal54.vercel.app/)  
+## Tech stack
 
+**Languages**  
+Python • JavaScript • TypeScript • Java • C/C++ • SQL
+
+**Frontend / Mobile**  
+React • React Native • Next.js • Flutter • HTML • CSS
+
+**Backend / APIs**  
+FastAPI • Flask • Node.js • REST APIs • WebSockets
+
+**Databases**  
+PostgreSQL • MySQL • MongoDB • Redis
+
+**Cloud / DevOps**  
+AWS • Docker • Kubernetes • CI/CD • Git
+
+**AI / Data**  
+LangChain • RAG • OpenAI APIs • NLP • Multi-agent systems
+
+---
+
+## Featured projects
+
+### CareBridge AI
+AI-powered discharge and care-transition platform for elderly patients using FastAPI, React, PostgreSQL, Gemini, and multi-agent review pipelines.
+
+### RepoResearchAI
+Repository intelligence system that analyzes codebases, explains architecture, and supports context-aware Q&A using AI workflows.
+
+### AWS Video Analytics Streaming Platform
+Scalable video analytics platform focused on streaming architecture, backend design, and cloud infrastructure patterns.
+
+### AI Chatbot for Business
+Practical AI assistant built with backend orchestration, retrieval flow, and human-in-the-loop reliability controls.
+
+---
+
+## What I care about
+
+- clean architecture
+- reliable APIs
+- performance that users can feel
+- systems that scale without becoming messy
+- AI that is useful, grounded, and safe
+
+---
+
+## Connect with me
+
+- **Portfolio:** https://vineet-agarwal54.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/vineetagarwal54/
+- **Email:** vineetagarwal540@gmail.com
