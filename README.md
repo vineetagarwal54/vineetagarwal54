@@ -57,6 +57,16 @@ Full-Stack  ──▶  Cloud & Infra  ──▶  LLM Serving  ──▶  Applied
 <tr>
 <td width="50%" valign="top">
 
+### [LOCra](https://github.com/vineetagarwal54/Locra)
+Privacy-first mobile AI assistant that performs text and image Q&A entirely on-device, without sending user content to a server.
+
+Built with React Native and llama.rn, with local model downloads and verification, streaming responses, persistent conversations, cancellation, and device-aware failure handling.
+
+`React Native` `TypeScript` `llama.rn` `Qwen3-VL` `On-device AI`
+
+</td>
+<td width="50%" valign="top">
+
 ### [Job_Tracker](https://github.com/vineetagarwal54/Job_Tracker)
 Desktop application for tracking job applications, built with React and Electron. One click capture from any job board through a browser bookmarklet, deadline tracking, drag and drop reordering, and JSON export and import.
 
@@ -65,6 +75,8 @@ Built it because spreadsheets kept losing my deadlines. Now has stars and forks 
 `React` `Electron` `JavaScript` `Local-first`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [RepoResearchAI](https://github.com/vineetagarwal54/RepoResearchAI)
@@ -75,8 +87,6 @@ Sessions are resumable, so analysis survives interruption on large repositories.
 `Python` `AutoGen` `LangChain` `FAISS` `Multi-agent`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [CollabDrawAI](https://github.com/vineetagarwal54/CollabDrawAI)
@@ -87,6 +97,8 @@ Room based sessions with live multi-user drawing and conflict-free cursor sync.
 `TypeScript` `Next.js` `WebSocket` `PostgreSQL` `Prisma`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [MeetSpace](https://github.com/vineetagarwal54/MeetSpace)
@@ -97,22 +109,12 @@ React and TypeScript frontend, Node and Express signaling with Socket.IO and Pee
 `WebRTC` `TypeScript` `Socket.IO` `PeerJS` `Node.js`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [AIChatbot](https://github.com/vineetagarwal54/AIChatbot)
 Domain specific customer support assistant with a RAG pipeline over business documentation, Redis response caching, and a hybrid backend that falls back from OpenAI to local Hugging Face models when the API is unavailable.
 
 `Python` `FastAPI` `RAG` `Redis` `LangChain`
-
-</td>
-<td width="50%" valign="top">
-
-### [google-adk](https://github.com/vineetagarwal54/google-adk)
-Sandbox for agentic orchestration patterns with Google ADK: search agents, research and summarization chains, and sequential versus parallel agent execution compared side by side.
-
-`Python` `Google ADK` `Agent orchestration`
 
 </td>
 </tr>
@@ -155,17 +157,6 @@ Shipped 50 plus cross platform React Native screens with Redux Toolkit. Refactor
 **Frontend**
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" height="42" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="28" />
-
----
-
-## Snapshot
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=vineetagarwal54&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetagarwal54&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-</div>
 
 ---
 
