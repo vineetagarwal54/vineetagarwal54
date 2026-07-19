@@ -5,7 +5,9 @@
 <a href="https://vineet-agarwal54.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vineetagarwal54/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vineetagarwal540@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://vineet-agarwal54.vercel.app/"><img src="https://img.shields.io/badge/Resume-2EA043?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<!-- Resume badge: uncomment once the PDF is live
+<a href="RESUME_PDF_URL"><img src="https://img.shields.io/badge/Resume-2EA043?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+-->
 
 <br/>
 
@@ -57,10 +59,12 @@ Full-Stack  ──▶  Cloud & Infra  ──▶  LLM Serving  ──▶  Applied
 <tr>
 <td width="50%" valign="top">
 
-### [LOCra](https://github.com/vineetagarwal54/Locra)
+### [Locra](https://github.com/vineetagarwal54/Locra)
 Privacy-first mobile AI assistant that performs text and image Q&A entirely on-device, without sending user content to a server.
 
 Built with React Native and llama.rn, with local model downloads and verification, streaming responses, persistent conversations, cancellation, and device-aware failure handling.
+
+<!-- <img src="assets/locra.gif" width="100%" /> -->
 
 `React Native` `TypeScript` `llama.rn` `Qwen3-VL` `On-device AI`
 
@@ -70,7 +74,7 @@ Built with React Native and llama.rn, with local model downloads and verificatio
 ### [Job_Tracker](https://github.com/vineetagarwal54/Job_Tracker)
 Desktop application for tracking job applications, built with React and Electron. One click capture from any job board through a browser bookmarklet, deadline tracking, drag and drop reordering, and JSON export and import.
 
-Built it because spreadsheets kept losing my deadlines. Now has stars and forks from other people using it.
+Built it because spreadsheets kept losing my deadlines, and it has become the system I actually run my applications through.
 
 `React` `Electron` `JavaScript` `Local-first`
 
@@ -93,6 +97,8 @@ Sessions are resumable, so analysis survives interruption on large repositories.
 Real time collaborative whiteboard in a Turborepo monorepo: Next.js frontend, Express API, dedicated WebSocket server, shared UI package, PostgreSQL with Prisma.
 
 Room based sessions with live multi-user drawing and conflict-free cursor sync.
+
+<!-- <img src="assets/collabdraw.gif" width="100%" /> -->
 
 `TypeScript` `Next.js` `WebSocket` `PostgreSQL` `Prisma`
 
@@ -135,7 +141,7 @@ Shipped 50 plus cross platform React Native screens with Redux Toolkit. Refactor
 ## Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,go&theme=dark" height="42" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&theme=dark" height="42" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="28" />
 
 **AI and Inference**
@@ -160,7 +166,7 @@ Shipped 50 plus cross platform React Native screens with Redux Toolkit. Refactor
 
 ---
 
-## How I work
+## How I Work
 
 I like systems that make sense, APIs that do not surprise you, and interfaces that guide instead of confuse. I would rather measure a bottleneck than guess at one, and I try to build things that survive past the first version.
 
